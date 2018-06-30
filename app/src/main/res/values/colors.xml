@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00695C</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorAccent">#37474F</color>
+
+    <color name="hintColor">#b3b3c1</color>
+    <color name="textColor">#b3b3c1</color>
+    <color name="borderColor">#b3b3c1</color>
+
+    <color name="transparentColor">#00b3b3c1</color>
+    <color name="welcomeTextColor">#26A69A</color>
+    <color name="PopupBackgroundColor">#b3b3c1</color>
+    <color name="PopupTextColor">#b3b3c1</color>
+    <color name="floatMenuColorPress">#26A69A</color>
+    <color name="home_in_money">#cc619101</color>
+    <color name="income_color">#00695C</color>
+    <color name="spend_color">#f42851</color>
+    <color name="deposit_color">#f1c40f</color>
+</resources>

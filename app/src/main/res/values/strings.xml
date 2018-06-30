@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Amr Wallet</string>
+    <string name="app_logo">App logo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="remember_me">Remember me</string>
+    <string name="email">Email</string>
+    <string name="select_date">Select Date</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Continue</string>
+    <string name="user_guide_line">User Guide Line</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">DashBoard</string>
+
+    <string name="total_income_money">Total Income</string>
+    <string name="total_spend_money">Total Spend</string>
+    <string name="deposit_box">Deposit Box</string>
+    <string name="entire">Entire Debit Credit And Deposit</string>
+    <string name="previous_month_data">Previous Month Data</string>
+    <string name="incoming_month">Incoming Month</string>
+    <string name="outgoing_month">Outgoing Month</string>
+    <string name="add_new_incoming_money">Add New Incoming Money</string>
+    <string name="add_new_outgoing_money">Add New Outgoing Money</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="enter_old_password">Enter Old password</string>
+    <string name="enter_new_password">Enter New password</string>
+    <string name="enter_old_password2">Enter Old password</string>
+    <string name="would_you_like_to_add_this_in_your_incoming_money">Would you like to add this in your incoming money</string>
+    <string name="delete_logo">delete logo</string>
+    <string name="edit_logo">edit logo</string>
+    <string name="incoming_logo">incoming logo</string>
+    <string name="outgoing_logo">outgoing logo</string>
+    <string name="enter_transaction_name">Enter Transaction name</string>
+    <string name="enter_transaction_amount">Enter Transaction Amount</string>
+
+    <string name="facebook_app_id">367424160390948</string>
+    <string name="previous_month">Previous Month</string>
+
+</resources>

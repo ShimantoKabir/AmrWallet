@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/trans_title"
+        android:padding="15dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_horizontal"
+        android:fontFamily="sans-serif-condensed"
+        android:background="@color/colorPrimary"
+        android:textSize="15dp"/>
+
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/trans_date"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="sfsf"
+            android:gravity="center_horizontal"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/trans_time"
+            android:gravity="center_horizontal"
+            android:text="sdfsdf"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="@android:color/holo_orange_light"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="@dimen/layout_padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:fontFamily="sans-serif-condensed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_transaction_name"
+            android:inputType="text"
+            android:id="@+id/take_tan_name"/>
+
+        <EditText
+            android:fontFamily="sans-serif-condensed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_transaction_amount"
+            android:inputType="number"
+            android:id="@+id/take_tan_amount"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
